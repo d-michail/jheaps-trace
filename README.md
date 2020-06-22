@@ -36,6 +36,6 @@ heap driver.
 
 This project contains heap drivers for various heaps using the [JHeaps](https://github.com/d-michail/jheaps) library. 
 It uses maven and builds an uberjar using the maven shade plugin. This also makes it relatively easy to compile the 
-driver natively using the native-tool from the [GraalVM](https://www.graalvm.org/).
+driver natively using the native-image tool from the [GraalVM](https://www.graalvm.org/).
 
 
